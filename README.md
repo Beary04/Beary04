@@ -35,6 +35,6 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
-### I have completed a number of Cyber security certification including Comptia network+, security+, microsoft az900 and also splunk core certified user
+### I have completed a number of Cyber security certification including Comptia network+, security+, microsoft az900 and also splunk core certified user. Currently studying cyber security at Munster Technological University
 
 ###
