@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm from Wexford, Ireland<br><br>- 🔭 I’m working as ... IT Technical Support in Sulzer Pumps Wexford<br>- 📚 I'm currently working towards a HDip in Cybersecurity Risk & compliance<br>- ⚡ In my free time I love learning about cyber security and cloud infrastructure</p>
+<p align="left">I'm from Wexford, Ireland<br><br>- 🔭 I’m working as ... IT Technical Support in Sulzer Pumps Wexford<br>- 📚 I'm currently working towards a HDip in Cybersecurity Risk & compliance afetr that I will work towards my Masters.<br>- ⚡ In my free time I love learning about cyber security and cloud infrastructure</p>
 
 ###
 
